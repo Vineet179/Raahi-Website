@@ -1,0 +1,6 @@
+{
+  "name": "Raahi",
+  "description": "A full-stack MERN ride and service booking platform centered in Pithoragarh, Uttarakhand, India, supporting normal users, riders/drivers, and an administration panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

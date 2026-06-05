@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "u4",
+      "name": "Devendra Pandey (Admin)",
+      "email": "admin@raahi.com",
+      "passwordHash": "$2a$10$LgL48iYpD7pYqorP5C6uBeU8y0n3kS1lP7V3H7qj07Y5X3X0Wv0eG",
+      "phone": "+91 94111 88320",
+      "role": "admin",
+      "avatarUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=150&q=80",
+      "createdAt": "2026-06-05T10:00:00.000Z"
+    }
+  ],
+  "riders": [],
+  "bookings": []
+}
